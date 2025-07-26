@@ -5,7 +5,7 @@ from telegram import Update
 from telegram.ext import Updater, CommandHandler, CallbackContext
 
 # Telegram bot token from environment variable
-TOKEN = 7583810398:AAG41wb6YdM9FgPfLEY58PttP8P_dgPtOWU
+TOKEN = "7583810398:AAG41wb6YdM9FgPfLEY58PttP8P_dgPtOWU"
 
 # Поддерживаемые монеты
 COINS = {
